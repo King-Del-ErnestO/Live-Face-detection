@@ -11,7 +11,7 @@ font = cv2.FONT_HERSHEY_SIMPLEX
 
 id = 0
 
-names = ['None', 'King', 'Del', 'Beulah', 'Simi']
+names = []
 
 img = cv2.VideoCapture(0)
 img.set(3, 640)
